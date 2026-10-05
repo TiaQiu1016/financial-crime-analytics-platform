@@ -234,7 +234,7 @@ MIT License
 
 ## Author
 
-Herman Qin
-- GitHub: [@HermanQin9](https://github.com/HermanQin9)
-- Email: hermantqin@gmail.com
+Tia Qiu
+- GitHub: TiaQiu1016
+- Email: t1aaa1016@gmail.com
 
