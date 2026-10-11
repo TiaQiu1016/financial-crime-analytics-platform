@@ -85,8 +85,8 @@ docker --version   # Docker
 
 1. Clone repository
 ```bash
-git clone https://github.com/HermanQin9/Bank-LLM.git
-cd BankFraudTest-LLM
+git clone https://github.com/TiaQiu1016/financial-crime-analytics-platform.git
+cd financial-crime-analytics-platform
 ```
 
 2. Start PostgreSQL
